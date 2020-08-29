@@ -7,5 +7,4 @@ PyQt_Tetris.spec
 one_file/
 dist/
 *.zip
-data/
 output/
